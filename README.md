@@ -1,6 +1,6 @@
 README.md
 
-![GitHub Logo](/images/FWAdventures.png)
+![GitHub Logo](/image/FWAdventures.png)
 
 Name: Fairweather Adventures
 
