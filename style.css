@@ -1,0 +1,77 @@
+body {
+  background: #bcc3ab;
+}
+header {
+  padding-bottom: 75px;
+  background: url(https://i.guim.co.uk/img/media/40726e71dd6c284881900d36bfc521182c95c31b/0_0_5537_3324/master/5537.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=57aa7884e1ae183573525db7aba3124d);
+}
+h1 {
+  padding-top: 25px;
+}
+footer {
+  background: #ccc;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;
+}
+.city-name {
+  margin-top: 50px;
+}
+#weather-box {
+  margin-left: 10px;
+  background: url(https://media.gettyimages.com/photos/badlands-night-sky-picture-id180579280);
+  color: white;
+}
+#national-box {
+  background: #ccc;
+}
+#move-right {
+  background: url(https://i0.wp.com/www.beautifulbadlandsnd.com/wp-content/uploads/2019/02/51150A29-BBF0-45F9-ACD1-21039499873A-edited_.jpg?ssl=1);
+}
+#info {
+  background: blue;
+  border-radius: 15px 15px 15px 15px;
+  margin: 15px;
+  margin-top: 120px;
+}
+.img1 {
+  max-width: 60%;
+  max-height: 60%;
+  margin-top: 15px;
+}
+.img2 {
+  max-width: 60%;
+  max-height: 60%;
+  margin-top: 25px;
+}
+.img3 {
+  max-width: 60%;
+  max-height: 60%;
+  margin-top: 25px;
+}
+.img4 {
+  max-width: 60%;
+  max-height: 60%;
+  margin-top: 25px;
+  margin-left: 60px;
+}
+.img5 {
+  max-width: 60%;
+  max-height: 60%;
+  margin-top: 25px;
+  margin-left: 60px;
+}
+/* Create some spacing */
+.activities {
+  margin-bottom: 10px;
+}
+
+/* Reduce displayed image */
+#images {
+  width: 14%;
+  height: auto;
+}
+h3 {
+  display: inline;
+}
