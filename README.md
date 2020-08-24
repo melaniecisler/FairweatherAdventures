@@ -1,5 +1,6 @@
 README.md
-!https://github.com/melaniecisler/FairweatherAdventures_Project1/tree/master/image
+
+![](https://github.com/melaniecisler/FairweatherAdventures_Project1/tree/master/image)
 
 Name: Fairweather Adventures
 
