@@ -124,7 +124,7 @@ async function displayWeather(zipcode) {
   console.log(zipcode);
 
   const api_url1 =
-    "http://api.openweathermap.org/data/2.5/weather?zip=" +
+    "https://api.openweathermap.org/data/2.5/weather?zip=" +
     zipcode +
     "&units=imperial&appid=dca7304415d91489027991b6324c4589";
 
@@ -159,7 +159,7 @@ async function displayWeather(zipcode) {
 function forecastWeek(zipcode) {
   console.log(zipcode);
   var queryforcastURL =
-    "http://api.openweathermap.org/data/2.5/forecast?zip=" +
+    "https://api.openweathermap.org/data/2.5/forecast?zip=" +
     zipcode +
     "&appid=dca7304415d91489027991b6324c4589";
   $.ajax({
