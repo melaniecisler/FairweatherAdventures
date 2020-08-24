@@ -1,8 +1,8 @@
 README.md
 
+
+
 Name: Fairweather Adventures
-
-
 
 Description: The Fairweather Adventures app solves the real world problem for short notice travelers who are looking for  National Park information and also want to know the current weather and 5-day forecast for their chosen park adventure. The app integrates data received from multiple server-side API requests (Open Weather Map API https://openweathermap.org/ and , National Park Services API https://www.nps.gov/subjects/developer/guides.htm ) to solve this problem. The  motivation to build this project was to help clients achieve their travel goals by having an accessible website that is easy to navigate.
 
