@@ -14,7 +14,7 @@ Challenges:  Separating some of the images, getting the API calls to write to th
 Future development: Make a clickable US state map , show national parks in that state, check out open weather map in more detail to what other features we can use. Add in a map/directions link with the output for each park. 
 
 
-Installation: Using Chrome or a favorite browser copy link https://melaniecisler.github.io/FairweatherAdventures_Project1/ 
+Installation: Using Chrome or a favorite browser copy link https://melaniecisler.github.io/FairweatherAdventures/ 
 
 Authors and acknowledgment: Developed by Alice Golter, Brock Ehnert, Foos Mahamud, Melanie Cisler, Jesus Rubio
 Bulma by Jeremy Thomas
